@@ -1,0 +1,21 @@
+ 1) <style>
+        body{
+            background-color: yellowgreen;
+        }
+        #first  //can use for id 
+        {
+            background-color: red;
+        }
+        .second   //can use for class
+        {
+            background-color: pink;
+        }
+        </style>
+
+
+
+2)
+another way is to make a file and add in header tag like given below 
+<header>
+   <link ref="stylesheet" href="abc.css"/> //abc is file name 
+</header>
