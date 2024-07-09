@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>This is practice of web</title>
+  <style> 
+    #check {
+      font-weight: 500;
+      font-style: italic;
+      font-style: Bold;
+
+      color:darkred;
+      text-align: center;
+      text-decoration: underline;
+      letter-spacing: 1px;
+
+      height: 20px;
+      width: 10px;
+      margin-left: 14px;
+      margin-top: 20px;
+      border: 20px solid black;
+      border-color: pink;
+      border-style: dotted;
+      border-style: double;
+
+      position: relative;
+      position : absolute;
+      top :60px;
+
+      display flex;
+      float 2.5px;
+
+      animation 
+    }
+    .image
+    {
+      background-color: yellow;
+      background: red;
+      
+    }
+    #check p {
+      font-size: 15px;
+    }
+  </style>
+</head>
+<body>
+  <div id="check"> 
+    <p>This is a demo or type of practice section</p> 
+    <div class=image>
+    <img src="index.html"/>
+    </div>
+  </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+Certainly! Here's a brief overview of the use of each group of CSS properties:
+
+Font Properties:
+
+font-family: Specifies the font of text.
+font-size: Sets the size of the font.
+font-weight: Controls the thickness or boldness of the font.
+font-style: Determines the italic or normal style of the font.
+line-height: Sets the vertical space between lines of text.
+Text Properties:
+
+color: Sets the color of text.
+text-align: Aligns text horizontally (left, right, center, justify).
+text-decoration: Adds decorations like underline or strikethrough to text.
+text-transform: Changes the case of text (uppercase, lowercase, capitalize).
+letter-spacing: Adjusts the space between characters.
+Box Model Properties:
+
+width and height: Sets the dimensions of an element.
+margin: Creates space around an element.
+padding: Adds space inside an element.
+border: Creates borders around an element.
+Background and Border Properties:
+
+background-color and background-image: Sets the background color or image of an element.
+border-width, border-style, and border-color: Control the width, style, and color of borders.
+Positioning Properties:
+
+position: Defines the positioning method (static, relative, absolute, fixed).
+top, right, bottom, left: Positions an element relative to its containing element.
+z-index: Controls the stacking order of positioned elements.
+Display and Layout Properties:
+
+display: Specifies how an element is displayed (block, inline, inline-block, flex, grid).
+float: Positions an element to the left or right of its container.
+clear: Specifies which sides of an element cannot have floating elements.
+overflow: Determines how content that overflows the element's box is handled.
+flex and grid: Layout systems for flexible and grid-based designs.
+Animation and Transformation Properties:
+
+animation: Animates elements over time.
+transition: Creates smooth transitions between states.
+transform: Applies transformations like rotate, scale, skew, or translate to elements.
+Miscellaneous Properties:
+
+cursor: Specifies the type of cursor to display when hovering over an element.
+opacity: Sets the transparency level of an element.
+visibility: Controls the visibility of an element.
+box-shadow: Adds a shadow effect to an element's box.
+text-shadow: Adds a shadow effect to text.
